@@ -2,7 +2,7 @@
 
 # 1. Visão Geral
 
-Neste tutorial, vamos aprender a desenvolver um aplicativo da web Spring Boot que gerencia dados em um banco de dados Oracle. 
+Neste breve tutorial, vamos aprender a desenvolver um aplicativo da web Spring Boot que gerencia dados em um banco de dados Oracle. 
 ### 1.1. Aqui estão as principais tecnologias que serão usadas:
 
 - Spring JDBC para acessar um banco de dados relacional (Oracle), via JdbcTemplate. Podemos usar Spring JDBC para operações CRUD simples em uma única tabela, em vez do Hibernate. Você verá como o Spring simplifica a programação com JDBC.
